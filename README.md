@@ -10,6 +10,9 @@
 
 ### Решение 1
 
+![1](https://github.com/murtazinilyas/13-02_Infosec2/blob/main/scshots/13-02-t1-1.png)
+![2](https://github.com/murtazinilyas/13-02_Infosec2/blob/main/scshots/13-02-t1-2.png)
+
 ---
 
 ### Задание 2
@@ -22,3 +25,4 @@
 
 ### Решение 2
 
+![1](https://github.com/murtazinilyas/13-02_Infosec2/blob/main/scshots/13-02-t2-1.png)
